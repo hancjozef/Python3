@@ -1,12 +1,6 @@
-# Python environment with requirements.txt
-
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/requirements/master)
+# Python 3 environment with requirements.txt
 
 A Binder-compatible repo with a `requirements.txt` file.
-
-Access this Binder at the following URL: 
-
-http://mybinder.org/v2/gh/binder-examples/requirements/master
 
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
